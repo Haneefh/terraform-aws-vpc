@@ -22,6 +22,6 @@ Commands:
 
  After verifying the plan run the below command to apply it
 
- terraform apply --var-file="terrafrom.tfvars"
+ terraform apply --var-file="terraform.tfvars"
 
 
